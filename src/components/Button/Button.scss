@@ -15,8 +15,11 @@
   font-size: 14px;
   font-family: "Montserrat";
 
+  transition-duration: 0.3s;
+
   &:hover {
     cursor: pointer;
+    transform: scale(1.2);
   }
 
   &::after {

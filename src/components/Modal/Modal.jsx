@@ -21,7 +21,7 @@ export const Modal = ({closeModal, cards, options}) => {
       setTimeout(() => setTimerMinutes(timerMinutes - 1), 60000);
     }
 
-    if (timerSeconds >= 10) {
+    if (timerSeconds > 0) {
       setTimeout(() => settimerSeconds(timerSeconds - 1), 1000);
     } else {
       settimerSeconds(60);

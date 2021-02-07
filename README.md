@@ -1,4 +1,4 @@
-## [Demo](https://tamara-ostapets.github.io/zig-zag-test)
+## [Demo](https://tamara-ostapets.github.io/zig-zag-test/index.html)
 
 ## Instructions
 

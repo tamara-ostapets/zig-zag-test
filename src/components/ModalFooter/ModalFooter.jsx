@@ -7,7 +7,7 @@ export const ModalFooter = () => (
       При пополнении счета с банковской карты списание средств происходит по курсу банка клиента
       </p>
 
-      <a href="/" className="Footer__more">
+      <a href="/#" className="Footer__more">
         Подробнее
       </a>
     </div>
