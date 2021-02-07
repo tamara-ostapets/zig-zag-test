@@ -1,0 +1,39 @@
+@import '../../styles/utils.scss';
+
+.Button {
+  position: relative;
+
+  margin: 24px 45px;
+  padding: 14px 24px;
+
+  background-color: $accent_lime;
+  border-radius: 5555px;
+  border: none;
+
+  color: $secondary_dark;
+  font-weight: 700;
+  font-size: 14px;
+  font-family: "Montserrat";
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &::after {
+    content:"";
+    display: block;
+    position: absolute;
+
+    width: 75px;
+    height: 28px;
+
+    left: 5px;
+    top: 5px;
+    transform: translate(50%, 50%);
+
+    background: $accent_lime;
+    opacity: 0.4;
+    filter: blur(40px);
+    border-radius: 5px;
+  }
+}

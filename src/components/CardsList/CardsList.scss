@@ -1,0 +1,11 @@
+@import '../../styles/utils.scss';
+
+.Cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  width: 520px;
+
+  margin-bottom: 46px;
+}

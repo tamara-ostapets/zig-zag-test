@@ -1,0 +1,30 @@
+$accent_lime: #83F6B1;
+$primary_dark: #1E2535;
+$secondary_dark: #282A3B;
+$primary_light: #3C4561;
+$text_color_light: #EEEEEE;
+$text_color_dark: #272C44;
+
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: normal;
+  src: url("../fonts/Gilroy/Gilroy-Regular.woff");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: light;
+  src: url("../fonts/Gilroy/Gilroy-Light.woff");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-weight: bold;
+  src: url("../fonts/Gilroy/Gilroy-Bold.woff");
+}
