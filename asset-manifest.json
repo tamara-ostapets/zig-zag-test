@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zig-zag-test/static/css/main.dce34be5.chunk.css",
-    "main.js": "/zig-zag-test/static/js/main.607049ac.chunk.js",
-    "main.js.map": "/zig-zag-test/static/js/main.607049ac.chunk.js.map",
+    "main.js": "/zig-zag-test/static/js/main.e68a140a.chunk.js",
+    "main.js.map": "/zig-zag-test/static/js/main.e68a140a.chunk.js.map",
     "runtime-main.js": "/zig-zag-test/static/js/runtime-main.82ddb53a.js",
     "runtime-main.js.map": "/zig-zag-test/static/js/runtime-main.82ddb53a.js.map",
     "static/js/2.fc7a9983.chunk.js": "/zig-zag-test/static/js/2.fc7a9983.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.82ddb53a.js",
     "static/js/2.fc7a9983.chunk.js",
     "static/css/main.dce34be5.chunk.css",
-    "static/js/main.607049ac.chunk.js"
+    "static/js/main.e68a140a.chunk.js"
   ]
 }
