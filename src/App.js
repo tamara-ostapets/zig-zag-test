@@ -39,7 +39,7 @@ const options = [
 ];
 
 function App() {
-  const [modalIsVisible, setModalIsVisible] = useState(true);
+  const [modalIsVisible, setModalIsVisible] = useState(false);
   const [cards, setCards] = useState(initialCards);
 
   const showModal = () => {
