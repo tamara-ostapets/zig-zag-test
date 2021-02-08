@@ -16,7 +16,7 @@ export const Form = ({options, selectedPayment, onSelect}) => (
         </option>
         {options.map(opt => (
           <option 
-          value={opt.option}
+          value={opt.title}
           key={opt.option} 
           className={`Form__option Form__option-${opt.option}`}
           >
