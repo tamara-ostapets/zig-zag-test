@@ -1,0 +1,47 @@
+@import '../../styles/utils.scss';
+
+.Form {
+
+  margin-bottom: 51px;
+  
+  &__dropdown {
+    position: relative;
+
+    border: none;
+
+    padding: 12px;
+
+    width: 392px;
+    height: 40px;
+  
+    background-color: #3C4561;
+
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-size: 16px;
+    color: #EEEEEE;
+  }
+
+  &__option {
+
+  }
+
+  &__option-card {
+    position: relative;
+
+    &::before {
+      display: block;
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      content: '';
+      background-image: url('../../img/bank-card.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 19px;
+      height: 14px;
+
+    }
+  }  
+}

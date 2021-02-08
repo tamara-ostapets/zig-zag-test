@@ -1,0 +1,11 @@
+@import '../../styles/utils.scss';
+
+.Timer {
+  width: 111px;
+  justify-content: space-between;
+  font-weight: 400;
+  color: $accent_lime;
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
